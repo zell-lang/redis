@@ -1,0 +1,7 @@
+[package]
+name = "redis"
+version = "0.0.1"
+namespace = "redis"
+
+license = "MIT"
+description = "Redis client for Zell"

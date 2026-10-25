@@ -1,0 +1,2 @@
+// redis: scaffold. The code moves here from the main repo (std/data/redis), see docs/EXTRACTION.md there.
+namespace redis
